@@ -6,5 +6,7 @@ header {
     margin: auto;
     padding: 10px 10px;
     height: 70px;
-    border-bottom: 1px;
+    border-bottom: 1px solid #eee;
+    font-size: 18px;
+    font-weight: bold;
 }
